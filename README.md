@@ -3,7 +3,7 @@
 ## Author
 - **Name:** Precious Ndegwa
 - **GitHub:** [@preciousndegwa48](https://github.com/preciousndegwa48)
-- **Date:** September 14, 2026
+- **Date:** September 15, 2026
 
 ## Project Description
 This is my first repository for IYF Season 12 Week 00. I created this project to learn how to use GitHub, create repositories, rename them according to IYF standards, and write proper documentation.
